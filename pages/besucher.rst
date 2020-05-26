@@ -13,7 +13,7 @@
 Save the date!
 ==============
 
-Samstag, 31.10.2020 und Sonntag, 1.11.2020 in der Messe Nürnberg, Halle 3C.
+Samstag, 31.10.2020 und Sonntag, 01.11.2020 in der Messe Nürnberg, Halle 3C.
 
 
 Aussteller
@@ -33,7 +33,7 @@ und am Sonntag von 09:30 Uhr bis 16 Uhr (Einlass bis 15 Uhr) für euch geöffnet
 Eintrittskarten
 ================
 
-Unser Online-Ticketshop wird ab Spätsommer 2020 zu Verfügung stehen.
+Unser Online-Ticketshop wird ab Spätsommer 2020 zur Verfügung stehen.
 
 Es besteht auch die Möglichkeit, vor Ort Tickets zu erwerben. Dies wird voraussichtlich etwas teurer sein, als sie vorab online zu kaufen.
 
