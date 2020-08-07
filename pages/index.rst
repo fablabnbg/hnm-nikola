@@ -7,7 +7,10 @@
 .. description: 
 .. type: text
 \n
-.. image:: /assets/img/Welcome_withText2.png
+.. |Substitution Name| image:: /assets/img/Welcome_withText2.png
+  :width: 400
+  :alt: Welcome image
+|Substitution Name|
 
 Save the date!
 ===============
