@@ -25,7 +25,7 @@ p {
 }
 .navbar   {
 	background: rgb(192,26,44);
- 	background: linear-gradient(104deg, rgba(192,26,44,1) 38%, rgba(52,58,64,1) 38%);
+ 	background: linear-gradient(104deg, rgba(192,26,44,1) 37%, rgba(52,58,64,1) 37%);
 }
 .post-list{
 	margin-bottom:60px;
