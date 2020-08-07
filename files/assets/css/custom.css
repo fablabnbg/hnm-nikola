@@ -28,6 +28,7 @@ h1 {
 
 p {
 	font-family: "helvetica";
+	color: rgb(52,58,64);
 }
 
 .navbar   {
@@ -51,5 +52,5 @@ z-index: 1;
 }
 
 a:hover {
-	color: #FeFeFe;
+	color: rgb(52,58,64);;
 }
