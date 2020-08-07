@@ -12,7 +12,7 @@ body {
 
 
 a, .u-url  {
-	color: rgb(192,26,44);	/* G20 */
+	color: #D67513;	/* G20 */
 }
 
  h2, h3, h4, h5, h6 {
@@ -57,8 +57,8 @@ z-index: 1;
 	color: #FFFFFF;	/* G20 */!important
 }
 }
-#blog-title{
-.p.color:#ffffff
+.navbar-dark .navbar-brand {
+    color: #FFFFFF;
 }
 
 a:hover {
