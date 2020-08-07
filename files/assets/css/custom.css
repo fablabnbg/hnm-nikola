@@ -12,16 +12,17 @@ body {
 
 
 a, .u-url  {
-	color: rgb(218, 218, 218);	/* G20 */
+	color: rgb(192,26,44);	/* G20 */
 }
 
-h1, h2, h3, h4, h5, h6 {
+ h2, h3, h4, h5, h6 {
 	font-family: "Coolvetica";
 	/* color: #707070;			*/ /* G70 */ 
 	color: rgb(52,58,64);
 }
 
 h1 {
+	font-family: "Coolvetica";
 	color: rgb(192,26,44) /* Red */
 }
 
