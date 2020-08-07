@@ -7,11 +7,12 @@
 .. description: 
 .. type: text
 
-.. image:: ../files/assets/img/Welcome_withText2.png
 Save the date!
 ===============
 
 Samstag, 31.10.2020 und Sonntag, 01.11.2020 - Messe Nürnberg, Halle 3C
+
+.. image:: ../files/assets/img/Welcome_withText2.png
 
 
 Neuigkeiten
