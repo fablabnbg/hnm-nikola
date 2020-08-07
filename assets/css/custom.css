@@ -6,6 +6,9 @@
 body {
 	padding-top :170px;
 	background: #FFFFFF !important;
+	background-image:url('../img/hackandmake_shape_animated.svg');
+	background-position:  center-bottom;
+	background-width:100%;
   	color: rgb(52,58,64);
 }
 a, .u-url  {
