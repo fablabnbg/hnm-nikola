@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-
+.. image:: /files/assets/img/Welcome_withText.png
 Save the date!
 ===============
 
