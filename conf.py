@@ -147,7 +147,8 @@ NAVIGATION_LINKS = {
             "Informationen"
         ),
         ("/sponsoren/", "Sponsoren & Partner"),
-        ("/review/", "Berichte über die Hack & Make")
+        ("/review/", "Berichte über die Hack & Make"),
+        ("/hygienekonzept/","Hygienekonzept")
     )
 }
 
