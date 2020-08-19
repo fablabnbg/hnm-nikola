@@ -65,3 +65,6 @@ Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von 
 
 .. _`faboratory gGmbH`: https://faboratory.de
 .. _`Fab Lab Region Nürnberg e. V.`: https://fablab-nuernberg.de
+
+.. image:: /assets/img/60pxBlank.svg 
+
