@@ -16,4 +16,6 @@ Maßnahem
 * Auf Umarmungen und Händeschütteln verzichten
 * Hust- und Niesetikette beachten
 * Bei Krankheit kein Messebesuch!
+
 Maßnahmen werden an die aktuelle Situation angepasst.
+
