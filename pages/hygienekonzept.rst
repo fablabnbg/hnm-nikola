@@ -19,3 +19,5 @@ Maßnahem
 
 Maßnahmen werden an die aktuelle Situation angepasst.
 
+.. image:: /assets/img/60pxBlank.svg 
+
