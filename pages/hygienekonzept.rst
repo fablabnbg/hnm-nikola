@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Maßnahem
+Maßnahmen
 =============
 * Regelmäßig Hände desinfizieren
 * Regelmäßig Hände waschen
