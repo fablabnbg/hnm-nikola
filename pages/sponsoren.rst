@@ -17,3 +17,7 @@ Darin enthalten sind Nennung Ihres Namens in Zusammenhang mit der Hack & Make,
 sowie ein Standplatz auf der Messe - jeweils entsprechend der Sponsor-Stufe.
 
 Schreiben Sie uns unter sponsor2020@hackmake.de und wir informieren Sie gerne über die Details.
+
+.. image:: /assets/img/60pxBlank.svg 
+
+
