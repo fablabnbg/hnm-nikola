@@ -45,3 +45,6 @@ auf die Hack & Make sowie iENA.
 
 
 .. _Aussteller-Information: link://slug/aussteller
+
+.. image:: /assets/img/60pxBlank.svg 
+
