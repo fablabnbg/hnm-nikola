@@ -86,3 +86,7 @@ Auf- und Abbau
 .. _Sponsoren: link://slug/sponsoren
 .. _Consumenta: https://www.consumenta.de/news/detail/vorbereitungen-fuer-den-messeherbst-das-erwartet-aussteller-und-besucher-auf-der-consumenta-2020/
 
+.. image:: /assets/img/60pxBlank.svg 
+
+
+
