@@ -31,3 +31,6 @@ Neuigkeiten
 .. post-list::
    :stop: 5
    :tags: news
+   
+.. image:: /assets/img/60pxBlank.svg 
+
