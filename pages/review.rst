@@ -55,5 +55,7 @@ Eindrücke 2017
 
 .. youtube:: _gavkokR47E
 
+.. image:: /assets/img/60pxBlank.svg 
+
 
 
