@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="sticker50_30.svg">
+   sodipodi:docname="HnMSticker5030.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="70.034208"
-     inkscape:cy="83.50606"
+     inkscape:cx="11.215498"
+     inkscape:cy="27.559644"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3664"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,6 +69,19 @@
          style="fill:#ab171d;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="path3666"
          inkscape:connector-curvature="0" />
+      <text
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.57669067px;font-family:'Coolvetica Rg';-inkscape-font-specification:CoolveticaRg-Regular;writing-mode:lr-tb;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89689845"
+         id="text3816"
+         x="16.650288"
+         y="-7.2601924"
+         transform="matrix(0,-1,-1,0,0,0)">
+        <tspan
+           x="16.650288 48.809349 79.870766 110.60925 141.47687 190.29718 221.35841 248.93266 279.86496 290.13229 323.58325"
+           y="-7.2601924"
+           sodipodi:role="line"
+           id="tspan3814"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.89689845">hackmake.de</tspan>
+      </text>
     </g>
     <g
        id="g875"
