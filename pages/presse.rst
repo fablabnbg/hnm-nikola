@@ -10,7 +10,7 @@
 Akkreditierung & Kontakt
 =============
 Akkreditierungen sind aktuell nur vorab möglich.
-Deswegen senden sie uns ihren Presseausweiß oder Redaktionsauftrag 'per Mail'_.
+Deswegen senden sie uns ihren Presseausweiß oder Redaktionsauftrag `per Mail`_.
 Nach erfolgter Akkreditierung erhalten Sie für die Messe einen Hack&Make-Presseausweis.
 
 
