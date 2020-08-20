@@ -142,14 +142,15 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/besucher/", "für Besucher"),
-                ("/aussteller/", "für Aussteller")
+                ("/aussteller/", "für Aussteller"),
+                ("/presse/","für Presse")
+
             ),
             "Informationen"
         ),
         ("/sponsoren/", "Sponsoren & Partner"),
         ("/review/", "Berichte über die Hack & Make"),
-        ("/hygienekonzept/","Hygienekonzept"),
-        ("/presse/","Presse")
+        ("/hygienekonzept/","Hygienekonzept")
     )
 }
 
