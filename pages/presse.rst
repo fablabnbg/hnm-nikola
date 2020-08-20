@@ -12,7 +12,7 @@
 Akkreditierung & Kontakt
 =============
 Akkreditierungen sind aktuell nur vorab möglich.
-Deswegen senden sie uns ihren Presseausweiß oder Redaktionsauftrag `per Mail`_.
+Deswegen senden sie uns ihren Presseausweiß oder Redaktionsauftrag `per Mail<programm@hackmake.de>`_.
 Nach erfolgter Akkreditierung erhalten Sie für die Messe einen Hack&Make-Presseausweis.
 
 
@@ -21,4 +21,3 @@ Nach erfolgter Akkreditierung erhalten Sie für die Messe einen Hack&Make-Presse
 Ein Anspruch auf Ausstellung einer Akkreditierung besteht nicht.
 .. image:: /assets/img/60pxBlank.svg 
 
-.. _per Mail: programm@hackmake.de
