@@ -15,9 +15,13 @@
 
 Akkreditierung & Kontakt
 ========================
+
+Sie möchten über die Hack & Make berichten? 
+Darüber freuen wir uns natürlich. Die HnM ist sicher (mindesten) einen Bericht wert.
+
 Akkreditierungen sind aktuell nur vorab möglich.
-Deswegen senden sie uns ihren Presseausweiß oder Redaktionsauftrag `per Mail`_.
-Nach erfolgter Akkreditierung erhalten Sie für die Messe einen Hack&Make-Presseausweis.
+Deswegen senden Sie uns bitte Ihren gescannten Presseausweis oder Redaktionsauftrag `per Mail`_.
+Nach erfolgter Akkreditierung erhalten Sie für die Messe einen Hack & Make-Presseausweis.
 
 
 * `Pressemappe </pdf/HnM2017/HnM-Pressemappe.pdf>`_
