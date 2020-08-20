@@ -148,7 +148,8 @@ NAVIGATION_LINKS = {
         ),
         ("/sponsoren/", "Sponsoren & Partner"),
         ("/review/", "Berichte über die Hack & Make"),
-        ("/hygienekonzept/","Hygienekonzept")
+        ("/hygienekonzept/","Hygienekonzept"),
+        ("/presse/","Presse")
     )
 }
 
