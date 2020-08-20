@@ -15,6 +15,14 @@ Save the date!
 
 Samstag, 31.10.2020 und Sonntag, 01.11.2020 in der Messe Nürnberg, Halle 3C.
 
+Hack&Make Shirts
+=================
+Es gibt Besucher `Shirts und Hoodies<https://www.seedshirt.de/hackmake>`_
+Damit ihr auf unseren Partnermessen gut Flagge zeigen könnt empfehlen wir entweder in passenden Helloween Kostüm zu kommen oder eines unserer Shirts zu erwerben.
+Ihr unterstützt uns dabei ein möglichst vielfälltiges Erlebnis zu gestalten und erhaltet dafür ein wertfolles Souvenir.
+
+
+.. image:: /assets/img/hnm_shirt.png
 
 Aussteller
 ==========
