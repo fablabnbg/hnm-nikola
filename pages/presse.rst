@@ -17,8 +17,8 @@ Nach erfolgter Akkreditierung erhalten Sie für die Messe einen Hack&Make-Presse
 
 
 * `Pressemappe </pdf/HnM2017/HnM-Pressemappe.pdf>`_
-* `Logo </assets/img/HacknMakeLogoRot.svg>`_
-* `Sticker </assets/img/HnMSticker5030.png>`_
+*  :download:`Logo </assets/img/HacknMakeLogoRot.svg>`_
+*  :download:`Sticker </assets/img/HnMSticker5030.png>`_
 
 
 Ein Anspruch auf Ausstellung einer Akkreditierung besteht nicht.
