@@ -21,11 +21,11 @@ Hack&Make Shirts
 .. table::   
 
      +-------------------------------------------------------------------------+----------------------------------------+
-     |Es gibt Besucher `Shirts und Hoodies`_                                   |  .. image:: /assets/img/hnm_shirt.png  |
-     |Damit ihr auf unseren Partnermessen gut Flagge zeigen könnt empfehlen    |                                        |
-     |wir entweder in passenden Helloween Kostüm zu kommen oder eines unserer  |                                        |
-     |Shirts zu erwerben. Ihr unterstützt uns dabei ein möglichst vielfälltiges|                                        |
-     |Erlebnis zu gestalten und erhaltet dafür ein wertfolles Souvenir.        |                                        |                           
+     |Es gibt Besucher `Shirts und Hoodies`_ !                                  |  .. image:: /assets/img/hnm_shirt.png  |
+     |Damit Ihr auf unseren Partnermessen gut Flagge zeigen könnt, empfehlen    |                                        |
+     |wir entweder im passenden Halloween-Kostüm zu kommen oder eines unserer  |                                        |
+     |Shirts zu erwerben. So unterstützt Ihr uns bei der Gestaltung der HnM 
+      und erhaltet dafür ein wertvolles Souvenir.        |                                        |                           
      +-------------------------------------------------------------------------+----------------------------------------+
 
 
@@ -51,7 +51,7 @@ Unser Online-Ticketshop wird ab Spätsommer 2020 zur Verfügung stehen.
 
 Es besteht **nicht** die Möglichkeit, vor Ort Tickets zu erwerben. Wegen Corona wird es **ausschließlich** Onlinetickets geben.
 Das Ticket berechtigt zum einmaligen Besuch der Hack & Make sowie der iENA und Consumenta. Consumenta-Tickets berechtigen auch zum Einlass
-auf die Hack & Make sowie iENA.
+zur Hack & Make sowie iENA.
 
 
 .. Link-Ziele
