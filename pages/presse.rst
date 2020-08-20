@@ -17,7 +17,7 @@ Akkreditierung & Kontakt
 ========================
 
 Sie möchten über die Hack & Make berichten? 
-Darüber freuen wir uns natürlich. Die HnM ist sicher (mindesten) einen Bericht wert.
+Darüber freuen wir uns natürlich. Die HnM ist sicher (mindestens) einen Bericht wert.
 
 Akkreditierungen sind aktuell nur vorab möglich.
 Deswegen senden Sie uns bitte Ihren gescannten Presseausweis oder Redaktionsauftrag `per Mail`_.
