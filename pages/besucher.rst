@@ -35,8 +35,7 @@ Eintrittskarten
 
 Unser Online-Ticketshop wird ab Spätsommer 2020 zur Verfügung stehen.
 
-Es besteht auch die Möglichkeit, vor Ort Tickets zu erwerben. Dies wird voraussichtlich etwas teurer sein, als sie vorab online zu kaufen.
-
+Es besteht **nicht** die Möglichkeit, vor Ort Tickets zu erwerben. Wegen Corona wird es **ausschließlich** Onlinetickets geben.
 Das Ticket berechtigt zum einmaligen Besuch der Hack & Make sowie der iENA und Consumenta. Consumenta-Tickets berechtigen auch zum Einlass
 auf die Hack & Make sowie iENA.
 
