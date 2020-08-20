@@ -1,6 +1,6 @@
 .. title: Besuchershirt jetzt erwerbbar
 .. slug: Besucher-Shirt
-.. date: 2020-07-01
+.. date: 2020-08-20
 .. tags: news, T-Shirt
 .. author: Simon
 .. category: 
