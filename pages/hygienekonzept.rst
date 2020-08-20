@@ -11,11 +11,11 @@ Maßnahmen
 =============
 * Regelmäßig Hände desinfizieren
 * Regelmäßig Hände waschen
-* In gekennzeichneten Bereichen Mund-Nasen-Bedeckung tragen
+* In gekennzeichneten Bereichen (in den Messehallen, in der Gastronomie und in den sanitären Anlagen) Mund-Nasen-Bedeckung tragen
 * Mindestabstand einhalten
 * Auf Umarmungen und Händeschütteln verzichten
 * Hust- und Niesetikette beachten
-* Bei Krankheit kein Messebesuch!
+* Bei Erkältungssymptomen und Krankheit kein Messebesuch!
 
 Maßnahmen werden an die aktuelle Situation angepasst.
 
