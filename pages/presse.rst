@@ -8,9 +8,9 @@
 .. type: text
 
 .. |H| image:: /assets/img/HacknMakeLogoRot.svg
-   :height: 14  
-.. |S| image:: assets/img/HnMSticker5030.svg
-   :height: 14
+   :height: 20  
+.. |S| image:: /assets/img/HnMSticker5030.svg
+   :height: 20
 
 
 Akkreditierung & Kontakt
