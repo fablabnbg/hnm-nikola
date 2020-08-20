@@ -19,5 +19,8 @@ Nach erfolgter Akkreditierung erhalten Sie für die Messe einen Hack&Make-Presse
 * `Pressemappe </pdf/HnM2017/HnM-Pressemappe.pdf>`_
 
 Ein Anspruch auf Ausstellung einer Akkreditierung besteht nicht.
+
 .. image:: /assets/img/60pxBlank.svg 
+
 .. _per Mail: programm@hackmake.de
+
