@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40mm"
+   height="40.09mm"
+   viewBox="0 0 40 40.09"
+   version="1.1"
+   id="svg1404"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="HacknMakeLogoRot.svg">
+  <defs
+     id="defs1398" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7983052"
+     inkscape:cx="49.359073"
+     inkscape:cy="73.914015"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1401">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-256.91)">
+    <g
+       id="g3664-4"
+       transform="matrix(0.10722078,0,0,-0.10722078,6.8582e-7,256.91013)"
+       style="display:inline;fill:#ab171d;fill-opacity:1">
+      <path
+         d="m 0,0 v -373.899 h 124.354 v 124.354 l 62.177,-41.451 62.177,41.451 V -373.899 H 373.062 V 0 H 248.708 V -124.354 H 124.354 V 0 Z"
+         style="fill:#ab171d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path3666-3"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
