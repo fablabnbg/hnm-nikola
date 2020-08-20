@@ -17,8 +17,8 @@ Samstag, 31.10.2020 und Sonntag, 01.11.2020 in der Messe Nürnberg, Halle 3C.
 
 Hack&Make Shirts
 =================
-.. table:: 
-  
+
+.. table::   
 
      +-------------------------------------------------------------------------+----------------------------------------+
      |Es gibt Besucher `Shirts und Hoodies`_                                   |  .. image:: /assets/img/hnm_shirt.png  |
@@ -27,6 +27,7 @@ Hack&Make Shirts
      |Shirts zu erwerben. Ihr unterstützt uns dabei ein möglichst vielfälltiges|                                        |
      |Erlebnis zu gestalten und erhaltet dafür ein wertfolles Souvenir.        |                                        |                           
      +-------------------------------------------------------------------------+----------------------------------------+
+
 
 
 Aussteller
@@ -61,5 +62,6 @@ auf die Hack & Make sowie iENA.
 .. image:: /assets/img/60pxBlank.svg 
 
 .. _`Shirts und Hoodies`: https://www.seedshirt.de/hackmake
+
 
 
