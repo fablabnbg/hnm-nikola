@@ -23,7 +23,8 @@ Für ein Wochenende erlebt Ihr Witziges, Lehrreiches und Überraschendes aus der
 Erfahrene und Unerfahrene können ihr Wissen gleichermaßen bei Vorträgen auffrischen und erweitern und eine neue Welt des Selbermachens entdecken.
 Die bayerische Staatsregierung gab vor kurzem bekannt, dass Messen wie die “Consumenta” und die parallel veranstaltete iENA und Hack & Make stattfinden dürfen.
 Natürlich mit entsprechendem Hygienekonzept.
-Bestaunt den Einfallsreichtum der Kreativen, Hacker*innen und Macher*innen oder zeigt winfach selbst Eure Kreationen und Innovationen auf der Hack and Make 2020. 
+Bestaunt den Einfallsreichtum der Kreativen, Hacker*innen und Macher*innen oder zeigt einfach selbst Eure Kreationen und Innovationen auf der Hack and Make 2020.
+
 Lasst uns gemeinsam dieses Wochenende erinnernswert machen!
 
 Neuigkeiten
