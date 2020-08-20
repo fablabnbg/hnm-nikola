@@ -7,6 +7,10 @@
 .. description: 
 .. type: text
 
+.. |H| image:: /assets/img/HacknMakeLogoRot.svg
+   :height: 12  
+.. |S| image:: assets/img/HnMSticker5030.png
+   :height: 12
 
 
 Akkreditierung & Kontakt
@@ -17,8 +21,8 @@ Nach erfolgter Akkreditierung erhalten Sie für die Messe einen Hack&Make-Presse
 
 
 * `Pressemappe </pdf/HnM2017/HnM-Pressemappe.pdf>`_
-*  :download:`Logo </assets/img/HacknMakeLogoRot.svg>`
-*  :download:`Sticker </assets/img/HnMSticker5030.png>`
+* `Logo </assets/img/HacknMakeLogoRot.svg>`_ |H|
+* `Sticker </assets/img/HnMSticker5030.png>`_ |S|
 
 
 Ein Anspruch auf Ausstellung einer Akkreditierung besteht nicht.
