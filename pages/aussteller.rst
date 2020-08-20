@@ -6,7 +6,6 @@
 .. link: 
 .. description: 
 .. type: text
-.. _per Mail @ Programm@hackmake.de: programm@hackmake.de
 
 
 
@@ -89,6 +88,10 @@ Auf- und Abbau
 .. _Consumenta: https://www.consumenta.de/news/detail/vorbereitungen-fuer-den-messeherbst-das-erwartet-aussteller-und-besucher-auf-der-consumenta-2020/
 
 .. image:: /assets/img/60pxBlank.svg 
+
+.. _per Mail @ Programm@hackmake.de: programm@hackmake.de
+
+
 
 
 
