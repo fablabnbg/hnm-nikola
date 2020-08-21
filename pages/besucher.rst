@@ -25,7 +25,7 @@ Hack&Make Shirts
      |Damit Ihr auf unseren Partnermessen gut Flagge zeigen könnt, empfehlen    |                                        |
      |wir entweder im passenden Halloween-Kostüm zu kommen oder eines unserer   |                                        |
      |Shirts zu erwerben. So unterstützt Ihr uns bei der Gestaltung der HnM     |                                        |
-     | und erhaltet dafür ein wertvolles Souvenir.                              |                                        |                           
+     |und erhaltet dafür ein wertvolles Souvenir.                               |                                        |                           
      +--------------------------------------------------------------------------+----------------------------------------+
 
 
