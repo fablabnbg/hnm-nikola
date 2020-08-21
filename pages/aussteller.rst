@@ -27,7 +27,7 @@ Dann melde einfach Deinen eigenen Stand an!
 
 Ein Stand ist eine fest geplante Fläche, welche zur Präsentation bereitsteht. Stände werden je 3m Front (die Seite zu einem Gang) gerechnet.
 Enthalten ist ein Stromanschluss Schuko (bis 500W), zwei Tische sowie zwei Ausstellertickets. Für größere Stände erhöhen sich die Preise entsprechend.
-Bei interrese kontaktieren sie uns per Mail Programm@hackmake.de`_.
+Bei interrese kontaktieren sie uns per Mail Programm@hackmake.de.
 
 Der Stand soll thematisch zur HnM passen. Wir behalten uns vor, Standanmeldungen, die nicht zu uns passen, abzulehnen.
 
