@@ -23,5 +23,5 @@ Euer Hack&Make Team
 
 
      
-.. _`Shirts und Hoodies`: https://www.seedshirt.de/hackmake
+.. _`Shirts und Hoodies`: https://www.seedshirt.de/shop/hackmake
 
