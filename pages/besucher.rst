@@ -61,7 +61,7 @@ zur Hack & Make sowie iENA.
 
 .. image:: /assets/img/60pxBlank.svg 
 
-.. _`Shirts und Hoodies`: https://www.seedshirt.de/hackmake
+.. _`Shirts und Hoodies`: https://www.seedshirt.de/shop/hackmake
 
 
 
