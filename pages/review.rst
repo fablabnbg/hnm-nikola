@@ -11,9 +11,9 @@
 2017
 ====
 
-Die erste Hack & Make (kurz: HnM) fand im Juni 2017 im Z-Bau in Nürnberg statt.
+Die erste Hack & Make fand im Juni 2017 im Z-Bau in Nürnberg statt.
 
-Einen Eindruck davon gibt es auf http://review.hackmake.de zu sehen.
+Einen Eindruck davon gibt es auf https://review.hackmake.de zu sehen.
 
 
 2018 & 2019
