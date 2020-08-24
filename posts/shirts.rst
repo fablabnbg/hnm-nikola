@@ -7,15 +7,15 @@
 .. link: 
 .. description: 
 .. type: text
-T-`Shirts und Hoodies`_ können für die Messe können jetzt erworben werden!
+T-`Shirts und Hoodies`_ für die Messe können jetzt erworben werden!
 
-Wir freuen uns ihnen das Disjährige T-Shirt für die Hack&Make zu Presentieren.
-Damit ihr auf unseren Partnermessen gut Flagge zeigen könnt empfehlen wir entweder in passenden Helloween Kostüm zu kommen oder eines unserer `Shirts und Hoodies`_ zu erwerben. 
-Ihr unterstützt uns dabei ein möglichst vielfälltiges Erlebnis zu gestalten und erhaltet dafür ein wertfolles Souvenir.
+Wir freuen uns Ihnen das diesjährige T-Shirt für die Hack & Make zu präsentieren.
+Damit Ihr auf unseren Partnermessen gut Flagge zeigen könnt, empfehlen wir entweder im passenden Halloween-Kostüm zu kommen oder eines unserer `Shirts und Hoodies`_ zu erwerben. 
+So unterstützt Ihr uns bei der Gestaltung der HnM und erhaltet dafür ein wertvolles Souvenir.
 
 .. image:: /assets/img/hnm_shirt.png
 
-Euer Hack&Make Team
+Euer HnM-Team
 
 
 .. TEASER_END
