@@ -23,9 +23,9 @@ Hack&Make Shirts
      +--------------------------------------------------------------------------+----------------------------------------+
      |Es gibt Besucher `Shirts und Hoodies`_ !                                  |  .. image:: /assets/img/hnm_shirt.png  |
      |Damit Ihr auf unseren Partnermessen gut Flagge zeigen könnt, empfehlen    |                                        |
-     |wir entweder im passenden Halloween-Kostüm zu kommen oder eines unserer   |                                        |
-     |Shirts zu erwerben. So unterstützt Ihr uns bei der Gestaltung der HnM     |                                        |
-     |und erhaltet dafür ein wertvolles Souvenir.                               |                                        |                           
+     |wir, entweder im passenden Halloween-Kostüm zu kommen oder eines unserer  |                                        |
+     |Shirts zu erwerben. So unterstützt Ihr uns bei der Gestaltung der         |                                        |
+     |Hack & Make und erhaltet dafür ein wertvolles Souvenir.                   |                                        |
      +--------------------------------------------------------------------------+----------------------------------------+
 
 

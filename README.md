@@ -6,7 +6,7 @@ Nikola Sourcen der Homepage der Hack &amp; Make 2020
 
 * Ihr benötigt einen github-Account. Falls Ihr noch keinen habt, der ist schnell eingerichet.
 * Dann benötigt ihr Schreibrechte in der fablabnbg-Organization oder zumindest in diesem Repository hier.
-Dazu schickt einfach euren github-Benutzernamen an ian. (Zum Beispiel, indem Ihr einfach hier ein neues "Issue" eröffnet).
+Dazu schickt einfach euren github-Benutzernamen an Ian. (Zum Beispiel, indem Ihr einfach hier ein neues "Issue" eröffnet).
 * Dann könnt Ihr hier lokal über das "Stift"-Icon die Seiten ändern.
   * Die Seiten liegen alle im Unterverzeichnis "pages".
   * Ändern von Seiten hier ist für einfache Änderungen am Text das einfachste.
