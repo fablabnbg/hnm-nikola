@@ -2,14 +2,16 @@
 Nikola Sourcen der Homepage der Hack &amp; Make 2020
 
 
-## Wie kann ich was ändern?
+## Wie kann ich etwas ändern?
 
 * Ihr benötigt einen github-Account. Falls Ihr noch keinen habt, der ist schnell eingerichet.
 * Dann benötigt ihr Schreibrechte in der fablabnbg-Organization oder zumindest in diesem Repository hier.
 Dazu schickt einfach euren github-Benutzernamen an Ian. (Zum Beispiel, indem Ihr einfach hier ein neues "Issue" eröffnet).
-* Dann könnt Ihr hier lokal über das "Stift"-Icon die Seiten ändern.
-  * Die Seiten liegen alle im Unterverzeichnis "pages".
-  * Ändern von Seiten hier ist für einfache Änderungen am Text das einfachste.
+* Dann könnt Ihr direkt im Browser über das "Stift"-Icon die Seiten ändern.
+  * Die Texte liegen alle in den Unterverzeichnissen "pages" und "posts".
+  * Für reine Text-Änderungen ist das die einfachste Methode.
+  * Das RST-Format lernt man am besten durch Anschauen und Nachmachen. Mehr erfährt man auf https://de.wikipedia.org/wiki/ReStructuredText
+  * Die Änderungen sind in wenigen Minuten auf https://fablabnbg.github.io/hnm-nikola/ zur Vorschau, und nach Freigabe durch Ian dann auch auf hackmake.de
 
 
 ## Wie kann ich lokal ändern oder neue Seiten hinzufügen?
