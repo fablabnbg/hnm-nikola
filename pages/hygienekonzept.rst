@@ -9,12 +9,12 @@
 
 Maßnahmen
 =============
-* Regelmäßig Hände desinfizieren
+* Regelmäßig Hände desinfizieren (Spender werden von der Messe Nürnberg bereitgestellt)
 * Regelmäßig Hände waschen
 * In gekennzeichneten Bereichen (in den Messehallen, in der Gastronomie und in den sanitären Anlagen) Mund-Nasen-Bedeckung tragen
-* Mindestabstand einhalten
+* Mindestabstand von mindestens 1,5 m einhalten
 * Auf Umarmungen und Händeschütteln verzichten
-* Hust- und Niesetikette beachten
+* Hust- und Niesetikette beachten, das heißt: bitte in die Ellenbeuge niesen bzw. husten
 * Bei Erkältungssymptomen und Krankheit kein Messebesuch!
 
 Maßnahmen werden an die aktuelle Situation angepasst.
