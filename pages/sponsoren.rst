@@ -19,6 +19,7 @@ Sie werden in all unseren Veröffentlichungen, auf unserer Internetseite, in den
 Außerdem haben Sie natürlich einen Standplatz auf der Messe - Größe entsprechend der Sponsor-Stufe.
 
 Support
+
 Wenn Sie die Idee der Hack & Make einfach gut finden und unterstützen möchten, bieten wir- zu einem kleineren Betrag - auch das Supporter-Paket an.
 
 Schreiben Sie uns unter sponsor2020@hackmake.de und wir informieren Sie gerne über die Details.
