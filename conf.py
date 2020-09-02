@@ -966,6 +966,7 @@ CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a>  
 #          still needs to be a dict of this format.  (it can be empty if you
 #          do not need formatting)
 # (translatable)
+PARTNER="Siemens"
 CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
