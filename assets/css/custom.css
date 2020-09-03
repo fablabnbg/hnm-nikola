@@ -58,6 +58,9 @@ p {
 	.u-url  {
 	color: #FFFFFF;	/* G20 */!important
 }
+#footers{
+	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);	
+}
 
 a:hover {
 	color: rgb(52,58,64);;
