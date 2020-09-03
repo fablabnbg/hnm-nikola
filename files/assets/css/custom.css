@@ -62,7 +62,7 @@ p {
 .container-fluid{
 	background-color: #f5f5f5;
 	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);
-	height:80px,
+	height:200px,
 }
 
 a:hover {
