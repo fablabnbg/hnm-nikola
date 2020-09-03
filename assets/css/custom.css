@@ -40,7 +40,7 @@ p {
   	color: #FFFFFF;
 }
 .e-content{
- min-height: calc(100vh - 60px-150 px);
+ min-height: calc(100vh - 60px - 150px);
 }
 #footer {
 	margin-top: auto;
