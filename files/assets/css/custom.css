@@ -46,7 +46,7 @@ p {
 	margin-top: auto;
 	
     /*z-index: 1; position: fixed;	/*
-	position: absolute;
+	
 	height:60px,
    	right: 0; !important
      	left: 0; !important
@@ -55,11 +55,12 @@ p {
 	width:100%;
   	background-color: #f5f5f5;
 	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);	
-	.u-url  {
-	color: #FFFFFF;	/* G20 */!important
+
 }
-#footers{
-	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);	
+.container-fluid{
+	background-color: #f5f5f5;
+	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);
+	height:60px,
 }
 
 a:hover {
