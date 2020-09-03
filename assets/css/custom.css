@@ -46,6 +46,7 @@ p {
 	margin-top: auto;
 	
     /*z-index: 1; position: fixed;	/*
+	position: sticky;
 	height:60px,
    	right: 0;
      	left: 0;
