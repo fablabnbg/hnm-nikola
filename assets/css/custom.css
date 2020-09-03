@@ -39,10 +39,14 @@ p {
 .navbar-dark .navbar-brand {
   	color: #FFFFFF;
 }
+.e-content{
+ min-height: calc(100vh - 60px);
+}
 #footer {
 	margin-top: auto;
 	z-index: 1;
-    /*position: fixed;	/*	
+    /*position: fixed;	/*
+	height:60px,
    	right: 0;
      	left: 0;
      	bottom: 0;
