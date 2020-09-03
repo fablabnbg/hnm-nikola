@@ -48,8 +48,8 @@ p {
     /*z-index: 1; position: fixed;	/*
 	position: absolute;
 	height:60px,
-   	right: 0;
-     	left: 0;
+   	right: 0; !important
+     	left: 0; !important
      	bottom: 0;
      	padding: 1rem;
 	width:100%;
