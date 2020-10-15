@@ -10,6 +10,11 @@
 
 .. Seiten-Inhalt
 
+_Tickets
+=======
+_Tickets können über unsere Partner Erworben werden. Sie finden sie unter der Kategorie iENA. 
+Wir freuen uns auf euer Kommen
+
 Save the date!
 ==============
 
@@ -63,5 +68,5 @@ zur Hack & Make sowie iENA.
 
 .. _`Shirts und Hoodies`: https://www.seedshirt.de/shop/hackmake
 
-
+.. _Tickets: https://www.messe-ticket.de/AFAG/consumenta2020/Shop
 
