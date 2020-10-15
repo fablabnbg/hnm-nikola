@@ -14,6 +14,6 @@ Wir freuen uns auf euer kommen!
 
 
 .. TEASER_END
-.. _Tickets: https://www.messe-ticket.de/AFAG/consumenta2020/Shop
+.. _`Tickets`: https://www.messe-ticket.de/AFAG/consumenta2020/Shop
 
 
