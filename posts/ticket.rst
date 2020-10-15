@@ -8,7 +8,7 @@
 .. description: 
 .. type: text
 
-_Tickets können ab sofort online gekauft werden.
+Tickets_ können ab sofort online gekauft werden.
 Wir freuen uns auf euer kommen!
 
 
