@@ -1,5 +1,5 @@
 .. title: Ticketverkauf
-.. slug: planung-consumenta-COVID-19
+.. slug: Ticketverkauf
 .. date: 2020-10-15
 .. tags: news, ticket
 .. author: Simon
