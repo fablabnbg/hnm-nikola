@@ -10,9 +10,9 @@
 
 .. Seiten-Inhalt
 
-_Tickets
+`Tickets`_
 =======
-_Tickets können über unsere Partner Erworben werden. Sie finden sie unter der Kategorie iENA. 
+`Tickets`_ können über unsere Partner Erworben werden. Sie finden sie unter der Kategorie iENA. 
 Wir freuen uns auf euer Kommen
 
 Save the date!
