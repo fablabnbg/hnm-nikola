@@ -68,5 +68,5 @@ zur Hack & Make sowie iENA.
 
 .. _`Shirts und Hoodies`: https://www.seedshirt.de/shop/hackmake
 
-.. _Tickets: https://www.messe-ticket.de/AFAG/consumenta2020/Shop
+.. _`Tickets`: https://www.messe-ticket.de/AFAG/consumenta2020/Shop
 
