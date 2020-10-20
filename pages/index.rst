@@ -14,10 +14,14 @@
   :trim:
 
 
-Save the date!
+Hack & Make 2020 abgesagt, weil Consumenta abgesagt!
 ===============
 
-Samstag, 31.10.2020 und Sonntag, 01.11.2020 - Messe Nürnberg, Halle 3C
+
+Aufgrund der aktuellen Infektionszahlen hat der Oberbürgermeister im Gespräch mit den Veranstaltern AFAG die Consumenta abgesagt.
+Die Hack & Make und auch die iENA sind Begleitmessen der Consumenta und laufen über den gleichen Ticketverkauf, deswegen wird die HnM auch nicht stattfinden.
+Wir bedanken uns bei den 28 potentiellen Ausstellern für dieses Jahr und für Dein Interesse, die HnM zu besuchen.
+Wir sehen uns hoffentlich alle gesund im nächsten Jahr!
 
 .. image:: /assets/img/Welcome_withText2.png
 
