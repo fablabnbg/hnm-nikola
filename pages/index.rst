@@ -15,7 +15,7 @@
 
 
 Hack & Make 2020 abgesagt, weil Consumenta abgesagt!
-===============
+=======================================================
 
 
 Aufgrund der aktuellen Infektionszahlen hat der Oberbürgermeister im Gespräch mit den Veranstaltern AFAG die Consumenta abgesagt.
