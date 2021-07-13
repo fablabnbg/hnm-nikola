@@ -3,8 +3,7 @@ name: push to another branch
 jobs:
 
     - name: Push        
-        uses: s0/git-publish-subdir-action@develop
-        env:
+         env:
           REPO: self
           BRANCH: src # The branch name where you want to push the assets
           FOLDER: src # The directory where your assets are generated
