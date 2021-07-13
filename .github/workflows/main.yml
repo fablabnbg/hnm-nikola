@@ -1,11 +1,13 @@
 on: [push]
-name: push to another branch
 jobs:
+  nikola_build:
+    runs-on: ubuntu-latest
+    name: 'Deploy Nikola to GitHub Pages'
+    steps:
+    - name: Check out
+      uses: actions/checkout@v2
+    - name: Build and Deploy Nikola
+      uses: getnikola/nikola-action@v3
+      with:
+        dry_run: false
 
-    - name: Push        
-         env:
-          REPO: self
-          BRANCH: src # The branch name where you want to push the assets
-          FOLDER: src # The directory where your assets are generated
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
-          MESSAGE: "Build: ({sha}) {msg}" # The commit message
