@@ -12,7 +12,7 @@
 Save the date!
 --------------
 
-Samstag, 31.10.2020 und Sonntag, 1.11.2020 in der Messe Nürnberg, Halle 3C.
+Samstag, 06.11.2020 und Sonntag, 07.11.2020 in der Messe Nürnberg, Halle 12.
 
 
 **Nähere Informationen folgen demnächst**
