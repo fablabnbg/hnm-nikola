@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg5048"
+   viewBox="0 0 116.25 116.25"
+   height="124"
+   width="124"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="hackandmake_shape.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1171"
+     id="namedview4188"
+     showgrid="false"
+     inkscape:zoom="4.4830729"
+     inkscape:cx="76.593838"
+     inkscape:cy="65.666257"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5048"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <defs
+     id="defs5050" />
+  <metadata
+     id="metadata5053">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-207.83527,-332.00507)"
+     style="stroke:none">
+    <g
+       transform="matrix(1.25,0,0,-1.25,207.83527,437.00507)"
+       id="g4474"
+       style="stroke:none">
+      <path
+         id="path4476"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 0,0 V 84 H 28.012 V 56 h 28.01 l 0.001,28 H 84.035 V 0 H 56.023 V 28.003 L 42.018,18.475 28.012,28.003 V 0 Z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
