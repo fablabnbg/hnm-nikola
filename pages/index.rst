@@ -1,4 +1,4 @@
-.. title: Hack & Make 2020
+.. title: Hack & Make 2021
 .. slug: index
 .. date: 2021-01-11 15:15:20 UTC+01:00
 .. tags: 
@@ -18,7 +18,7 @@
 Save the date!
 ===============
 
-Samstag, 06.11.2020´1 und Sonntag, 07.11.2021 - Messe Nürnberg, Halle 12
+Samstag, 06.11.2021 und Sonntag, 07.11.2021 - Messe Nürnberg, Halle 12
 
 .. image:: /assets/img/Welcome_withText2.png
 
