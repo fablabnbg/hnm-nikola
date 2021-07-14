@@ -10,10 +10,7 @@
 
 .. Seiten-Inhalt
 
-..`Tickets`_
-..==========
-..`Tickets`_ können über unsere Partner Erworben werden. Sie finden sie unter der Kategorie iENA. 
-..Wir freuen uns auf euer Kommen.
+
 Tickets
 ========
 Tickets können demnächst über unsere Partner Erworben werden.
@@ -24,27 +21,6 @@ Save the date!
 
 Samstag, 06.11.2020 und Sonntag, 07.11.2020 in der Messe Nürnberg, Halle 12.
 
-..Hack&Make Shirts
-..=================
-
-.... table::   
-
-..     +--------------------------------------------------------------------------+----------------------------------------+
-..     |Es gibt Besucher `Shirts und Hoodies`_ !                                  |  .. image:: /assets/img/hnm_shirt.png  |
-..     |Damit Ihr auf unseren Partnermessen gut Flagge zeigen könnt, empfehlen    |                                        |
-..     |wir, entweder im passenden Halloween-Kostüm zu kommen oder eines unserer  |                                        |
-..     |Shirts zu erwerben. So unterstützt Ihr uns bei der Gestaltung der         |                                        |
-..     |Hack & Make und erhaltet dafür ein wertvolles Souvenir.                   |                                        |
-..     +--------------------------------------------------------------------------+----------------------------------------+
-
-
-
-Aussteller
-==========
-
-Über Aussteller informieren wir Euch ab Spätsommer 2021.
-
-Du willst selbst ausstellen? --> Aussteller-Information_
 
 Öffnungszeiten
 ===============
@@ -62,7 +38,12 @@ Es besteht **nicht** die Möglichkeit, vor Ort Tickets zu erwerben. Wegen Corona
 Das Ticket berechtigt zum einmaligen Besuch der Hack & Make sowie der iENA und Consumenta. Consumenta-Tickets berechtigen auch zum Einlass
 zur Hack & Make sowie iENA.
 
+Aussteller
+==========
 
+Über Aussteller informieren wir Euch ab Spätsommer 2021.
+
+Du willst selbst ausstellen? --> Aussteller-Information_
 .. Link-Ziele
 
 
