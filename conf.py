@@ -142,12 +142,15 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/besucher/", "für Besucher"),
-                ("/aussteller/", "für Aussteller")
+                ("/aussteller/", "für Aussteller"),
+                ("/presse/","für Presse")
+
             ),
             "Informationen"
         ),
         ("/sponsoren/", "Sponsoren & Partner"),
-        ("/review/", "Berichte über die Hack & Make")
+        ("/review/", "Berichte über die Hack & Make"),
+        ("/hygienekonzept/","Hygienekonzept")
     )
 }
 
@@ -165,7 +168,7 @@ NAVIGATION_ALT_LINKS = {
 
 # Name of the theme to use.
 
-THEME = "bootstrap4"
+THEME = "bootstrap4-HnM"
 #HACK_VARIANT="dark"
 
 # Primary color of your theme. This will be used to customize your theme.
@@ -356,7 +359,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+LOGO_URL = '/assets/img/hackandmake_shape.svg'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -663,7 +666,7 @@ GITHUB_REMOTE_NAME = 'origin'
 
 # Whether or not github_deploy should commit to the source branch automatically
 # before deploying.
-GITHUB_COMMIT_SOURCE = True
+GITHUB_COMMIT_SOURCE = False
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
@@ -755,10 +758,10 @@ GITHUB_COMMIT_SOURCE = True
 # "source/" and the results will be located in
 # "OUTPUT_PATH/relative_destination/gallery_name"
 # Default is:
-# GALLERY_FOLDERS = {"galleries": "galleries"}
+GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
-# THUMBNAIL_SIZE = 180
-# MAX_IMAGE_SIZE = 1280
+THUMBNAIL_SIZE = 240
+MAX_IMAGE_SIZE = 1600
 # USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
 #
@@ -767,7 +770,7 @@ GITHUB_COMMIT_SOURCE = True
 
 # If set to True, EXIF data will be copied when an image is thumbnailed or
 # resized. (See also EXIF_WHITELIST)
-# PRESERVE_EXIF_DATA = False
+PRESERVE_EXIF_DATA = True
 
 # If you have enabled PRESERVE_EXIF_DATA, this option lets you choose EXIF
 # fields you want to keep in images. (See also PRESERVE_EXIF_DATA)
@@ -784,7 +787,7 @@ GITHUB_COMMIT_SOURCE = True
 # PRESERVE_EXIF_DATA is set to True
 # To preserve ALL EXIF data, set EXIF_WHITELIST to {"*": "*"}
 
-# EXIF_WHITELIST = {}
+EXIF_WHITELIST = {"*":"*"}
 
 # Some examples of EXIF_WHITELIST settings:
 
@@ -825,8 +828,8 @@ GITHUB_COMMIT_SOURCE = True
 # but a different naming template can be configured with IMAGE_THUMBNAIL_FORMAT).
 
 IMAGE_FOLDERS = {'images': 'images'}
-# IMAGE_THUMBNAIL_SIZE = 400
-# IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
+IMAGE_THUMBNAIL_SIZE = 400
+IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
@@ -948,7 +951,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a>     {license}        - <a href="/impressum/">Impressum</a>'
+CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a>     {license}         <a href="/impressum/">Impressum</a> <img src="/assets/img/partner2.png" align="right" class = "footer_img" alt="Partner: Iena,Consumenta"/>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -963,6 +966,7 @@ CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a>  
 #          still needs to be a dict of this format.  (it can be empty if you
 #          do not need formatting)
 # (translatable)
+PARTNER="Siemens"
 CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
@@ -970,7 +974,7 @@ CONTENT_FOOTER_FORMATS = {
             "email": BLOG_EMAIL,
             "author": BLOG_AUTHOR,
             "date": time.gmtime().tm_year,
-            "license": LICENSE
+            "license": LICENSE,
         }
     )
 }
@@ -1126,10 +1130,10 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # """
 
 # Show link to source for the posts?
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
@@ -1298,7 +1302,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
 # environment but is not recommended for HTTP/2.0 when caching is used.
 # Defaults to True.
-# USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
