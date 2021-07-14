@@ -1,20 +1,8 @@
-.. title: Impressum
-.. slug: impressum
-.. date: 2020-01-11 12:06:08 UTC+01:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
-.. type: text
-
-
-Die Hack und Make ist eine Veranstaltung der `faboratory gGmbH`_.
-
-Die faboratory gGmbH ist eine Tochter des `Fab Lab Region Nürnberg e. V.`_
+Die Hack & Make ist eine Veranstaltung des `Fab Lab Region Nürnberg e. V.`_
 
 Anschrift
 ----------
-  faboratory gGmbH
+  Fab Lab Region Nürnberg e. V
   
   Schwabacher Straße 512
   
@@ -23,21 +11,23 @@ Anschrift
 Register
 ------------
 
-  Registergericht: Nürnberg, HRB 33568
+  Vereinssitz: Nürnberg, VR 201148
 
-  Geschäftsführer: Michael Mosburger
+  Vorstand: Ian Hubbertz, Roland Möltner, Jürgen Halbritter, Toby Bozin, Nicolas Metz
 
-  USt-Id: DE309441944
+  USt-IdNr: DE292554612
 
-Bankverbindung
+Spendenkonto
 ---------------
 
+
+  Ausschließlich für Spendenüberweisungen
+  
   VR-Bank Nürnberg
-
-  IBAN: DE55 7606 0618 0003 0588 40
-
+  
+  IBAN: DE33 7606 0618 7101 9610 71
+  
   BIC: GENODEF1N02
-
 
 Rechtliches
 ------------
@@ -65,3 +55,6 @@ Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von 
 
 .. _`faboratory gGmbH`: https://faboratory.de
 .. _`Fab Lab Region Nürnberg e. V.`: https://fablab-nuernberg.de
+
+.. image:: /assets/img/60pxBlank.svg 
+
