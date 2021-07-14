@@ -22,7 +22,7 @@ Support
 
 Wenn Sie die Idee der Hack & Make einfach gut finden und unterstützen möchten, bieten wir- zu einem kleineren Betrag - auch das Supporter-Paket an.
 
-Schreiben Sie uns unter sponsor2020@hackmake.de und wir informieren Sie gerne über die Details.
+Schreiben Sie uns unter sponsor2021@hackmake.de und wir informieren Sie gerne über die Details.
 
 .. image:: /assets/img/60pxBlank.svg 
 
