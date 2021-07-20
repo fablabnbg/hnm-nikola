@@ -11,10 +11,13 @@ on:
 # Warning: deletes all files on uberspace which are not in repo, use without --delete if unsure
 
 jobs:
+ 
   deploy:
     runs-on: ubuntu-latest
-    steps:
+    steps:    
     - uses: actions/checkout@v2
+      with:
+        repository: 'gh-pages'
     - name: rsync deployments
       uses: burnett01/rsync-deployments@4.1
       with:
