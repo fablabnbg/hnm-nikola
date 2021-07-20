@@ -1,6 +1,6 @@
 .. title: Informationen für Besucher
 .. slug: besucher
-.. date: 2020-01-11 13:15:02 UTC+01:00
+.. date: 2021-01-11 13:15:02 UTC+01:00
 .. tags: 
 .. category: besucher
 .. link: 
@@ -19,7 +19,7 @@ Wir freuen uns auf euch.
 Save the date!
 ==============
 
-Samstag, 06.11.2020 und Sonntag, 07.11.2020 in der Messe Nürnberg, Halle 12.
+Samstag, 06.11.2021 und Sonntag, 07.11.2021 in der Messe Nürnberg, Halle 12.
 
 
 Öffnungszeiten
