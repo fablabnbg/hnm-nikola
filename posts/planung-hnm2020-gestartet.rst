@@ -1,6 +1,6 @@
-.. title: Planung HnM2020 gestartet
-.. slug: planung-hnm2020-gestartet
-.. date: 2020-01-11 15:31:39 UTC+01:00
+.. title: Planung HnM2021 gestartet
+.. slug: planung-hnm2021-gestartet
+.. date: 2021-07-20 15:31:39 UTC+01:00
 .. tags: news
 .. author: ian
 .. category: 
@@ -8,7 +8,7 @@
 .. description: 
 .. type: text
 
-Es gibt nun ein Planungsteam für die Hack & Make 2020. 
+Es gibt nun ein Planungsteam für die Hack & Make 2021. 
 
 .. TEASER_END
 
