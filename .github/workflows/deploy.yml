@@ -17,7 +17,7 @@ jobs:
     steps:    
     - uses: actions/checkout@v2
       with:
-        repository: fablabnbg/gh-pages
+        repository: actions/gh-pages
     - name: rsync deployments
       uses: burnett01/rsync-deployments@4.1
       with:       
