@@ -18,6 +18,7 @@ jobs:
     - name: rsync deployments
       uses: burnett01/rsync-deployments@4.1
       with:
+        branch: gh-pages
         switches: -avzr --delete
         path: /
         remote_path: /home/${{ secrets.UBERSPACE_USER }}/sites/hackmake.de
