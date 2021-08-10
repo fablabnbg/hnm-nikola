@@ -47,20 +47,20 @@ Non-Profit
 NP Sale
 ~~~~~~~~
 
-* 59€ (inkl. 16% MwSt)
+* 59€ (inkl. 19% MwSt)
 * für Einzelpersonen, Bildungseinrichtungen, gemeinnützige Organisationen. Mit Verkauf!
 
 
 Start-up
 ~~~~~~~~~~
 
-* 300€ (zzgl. 16% MwSt)
+* 300€ (zzgl. 19% MwSt)
 * für Unternehmen, jünger als drei Jahre (Stichtag 01.01.2021) und mit weniger als 10 Mitarbeitern
 
 Commercial
 ~~~~~~~~~~~
 
-* 600€ (zzgl. 16% MwSt)
+* 600€ (zzgl. 19% MwSt)
 * für Unternehmen allgemein
 * für Sponsoren ist ein größerer Stand im Sponsoring-Betrag enthalten. Siehe Sponsoren_.
 
