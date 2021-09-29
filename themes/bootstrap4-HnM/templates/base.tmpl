@@ -14,7 +14,7 @@ ${template_hooks['extra_head']()}
 <!-- Menubar -->
 
 <nav class="navbar fixed-top navbar-expand-md static-top mb-4
-% if theme_config.get('navbar_light')
+% if theme_config.get('navbar_light'):
 navbar-light bg-light
 % else:
 navbar-dark bg-dark
