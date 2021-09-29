@@ -19,7 +19,7 @@ Wir freuen uns auf euch.
 Save the date!
 ==============
 
-Samstag, 06.11.2021 und Sonntag, 07.11.2021 in der Messe Nürnberg, Halle 12.
+Samstag, 06.11.2021 und Sonntag, 07.11.2021 in der Messe Nürnberg, Halle 10.
 
 
 Öffnungszeiten
