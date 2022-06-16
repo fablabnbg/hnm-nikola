@@ -1,0 +1,74 @@
+@font-face { 
+	font-family: "Coolvetica"; 
+	src: url("../fonts/coolvetica.ttf"); 
+}
+
+body {
+	padding-top :170px;
+	background: #FFFFFF !important;
+	background-image:url('../img/hackandmake_shape_animated.svg');
+	background-position:  center-bottom;
+	background-width:100%;
+  	color: rgb(52,58,64);
+}
+a, .u-url  {
+	color: #D67513;	/* G20 */
+}
+ h2, h3, h4, h5, h6 {
+	font-family: "Coolvetica";
+	/* color: #707070;			*/ /* G70 */ 
+	color: rgb(52,58,64);
+}
+h1 {
+	font-family: "Coolvetica";
+	color: rgb(192,26,44) /* Red */
+}
+p {
+	font-family: "helvetica";	
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,1);
+}
+.navbar   {
+	background: rgb(192,26,44);
+ 	background: linear-gradient(104deg, rgba(192,26,44,1) 520px, rgba(52,58,64,1) 520px);
+}
+.post-list{
+	margin-bottom:60px;
+}
+.navbar-dark .navbar-brand {
+  	color: #FFFFFF;
+}
+.e-content{
+ min-height: calc(100vh - 290px);
+}
+#footer {
+	margin-top: auto;
+	
+    /*z-index: 1; position: fixed  ;bottom: 0;	padding: 1rem;	/*
+	height: 80px;	
+   	right: 0; 
+     	left: 0; 
+	width:100%;
+  	background-color: #f5f5f5;
+	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);	
+
+}
+.container-fluid{
+	background-color: #f5f5f5;
+	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);
+	height: auto;
+}
+ .container-fluid .footer{
+	background-color: #f5f5f5;
+	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);
+}
+	.footer_img{
+vertical-align:bottom;
+	float:right;
+}
+
+
+a:hover {
+	color: rgb(52,58,64);;
+}
