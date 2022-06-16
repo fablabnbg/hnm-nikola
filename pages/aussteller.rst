@@ -27,7 +27,11 @@ Dann melde einfach Deinen eigenen Stand an!
 
 Ein Stand ist eine fest geplante Fläche, welche zur Präsentation bereitsteht. Stände werden je 3m Front (die Seite zu einem Gang) gerechnet.
 Enthalten ist ein Stromanschluss Schuko (bis 500W), zwei Tische sowie zwei Ausstellertickets. Für größere Stände erhöhen sich die Preise entsprechend.
+<<<<<<< HEAD
 Bei interrese kontaktieren sie uns per Mail Programm21@hackmake.de.
+=======
+Bei interrese kontaktieren sie uns per Mail Programm@hackmake.de.
+>>>>>>> 0bf51c02814cd9d21449253460294d4df7377b85
 
 Der Stand soll thematisch zur HnM passen. Wir behalten uns vor, Standanmeldungen, die nicht zu uns passen, abzulehnen.
 
@@ -60,7 +64,7 @@ Start-up
 Commercial
 ~~~~~~~~~~~
 
-* 600€ (zzgl. 19% MwSt)
+* 600€ (zzgl. 16% MwSt)
 * für Unternehmen allgemein
 * für Sponsoren ist ein größerer Stand im Sponsoring-Betrag enthalten. Siehe Sponsoren_.
 

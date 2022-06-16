@@ -11,16 +11,31 @@
 .. Seiten-Inhalt
 
 
-Tickets
-========
-Tickets können demnächst über unsere Partner Erworben werden.
-Wir freuen uns auf euch.
+..Hack&Make Shirts
+..=================
+
+.... table::   
+
+..     +--------------------------------------------------------------------------+----------------------------------------+
+..     |Es gibt Besucher `Shirts und Hoodies`_ !                                  |  .. image:: /assets/img/hnm_shirt.png  |
+..     |Damit Ihr auf unseren Partnermessen gut Flagge zeigen könnt, empfehlen    |                                        |
+..     |wir, entweder im passenden Halloween-Kostüm zu kommen oder eines unserer  |                                        |
+..     |Shirts zu erwerben. So unterstützt Ihr uns bei der Gestaltung der         |                                        |
+..     |Hack & Make und erhaltet dafür ein wertvolles Souvenir.                   |                                        |
+..     +--------------------------------------------------------------------------+----------------------------------------+
+
 
 Save the date!
 ==============
 
 Samstag, 06.11.2021 und Sonntag, 07.11.2021 in der Messe Nürnberg, Halle 10.
 
+Aussteller
+==========
+
+Über Aussteller informieren wir Euch ab Spätsommer 2021.
+
+Du willst selbst ausstellen? --> Aussteller-Information_
 
 Öffnungszeiten
 ===============

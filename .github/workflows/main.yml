@@ -1,5 +1,4 @@
 on: [push]
-
 jobs:
   nikola_build:
     runs-on: ubuntu-latest
@@ -11,3 +10,4 @@ jobs:
       uses: getnikola/nikola-action@v3
       with:
         dry_run: false
+
