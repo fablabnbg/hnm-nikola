@@ -1,6 +1,6 @@
-.. title: Planung HnM2021 gestartet
-.. slug: planung-hnm2021-gestartet
-.. date: 2021-06-16 12:31:39 UTC+01:00
+.. title: Planung HnM2022 gestartet
+.. slug: planung-hnm2022-gestartet
+.. date: 2022-06-16 12:31:39 UTC+01:00
 .. tags: news
 .. author: ian
 .. category: 
