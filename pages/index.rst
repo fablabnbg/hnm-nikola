@@ -14,10 +14,11 @@
   :trim:
 
 
+
 Save the date!
 ===============
 
-Samstag, 31.10.2020 und Sonntag, 01.11.2020 - Messe Nürnberg, Halle 3C
+Samstag, 06.11.2020 und Sonntag, 07.11.2020 - Messe Nürnberg, Halle 12
 
 .. image:: /assets/img/Welcome_withText2.png
 
@@ -26,7 +27,7 @@ Für ein Wochenende erlebt Ihr Witziges, Lehrreiches und Überraschendes aus der
 Erfahrene und Unerfahrene können ihr Wissen gleichermaßen bei Vorträgen auffrischen und erweitern und eine neue Welt des Selbermachens entdecken.
 Die bayerische Staatsregierung gab vor kurzem bekannt, dass Messen wie die “Consumenta” und die parallel veranstaltete iENA und Hack |&| Make stattfinden dürfen.
 Natürlich mit entsprechendem Hygienekonzept.
-Bestaunt den Einfallsreichtum der Kreativen, Hacker*innen und Macher*innen oder zeigt einfach selbst Eure Kreationen und Innovationen auf der Hack & Make 2020.
+Bestaunt den Einfallsreichtum der Kreativen, Hacker*innen und Macher*innen oder zeigt einfach selbst Eure Kreationen und Innovationen auf der Hack & Make 2021.
 
 Lasst uns gemeinsam dieses Wochenende erinnernswert machen!
 

@@ -951,7 +951,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a>     {license}        - <a href="/impressum/">Impressum</a>'
+CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a>     {license}         <a href="/impressum/">Impressum</a> <img src="/assets/img/partner2.png" align="right" class = "footer_img" alt="Partner: Iena,Consumenta"/>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -966,6 +966,7 @@ CONTENT_FOOTER = 'Contents &copy; {date} <a href="mailto:{email}">{author}</a>  
 #          still needs to be a dict of this format.  (it can be empty if you
 #          do not need formatting)
 # (translatable)
+PARTNER="Siemens"
 CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
@@ -973,7 +974,7 @@ CONTENT_FOOTER_FORMATS = {
             "email": BLOG_EMAIL,
             "author": BLOG_AUTHOR,
             "date": time.gmtime().tm_year,
-            "license": LICENSE
+            "license": LICENSE,
         }
     )
 }

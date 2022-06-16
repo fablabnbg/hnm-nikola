@@ -31,7 +31,7 @@ p {
 }
 .navbar   {
 	background: rgb(192,26,44);
- 	background: linear-gradient(104deg, rgba(192,26,44,1) 37%, rgba(52,58,64,1) 37%);
+ 	background: linear-gradient(104deg, rgba(192,26,44,1) 520px, rgba(52,58,64,1) 520px);
 }
 .post-list{
 	margin-bottom:60px;
@@ -40,21 +40,38 @@ p {
   	color: #FFFFFF;
 	margin-right: 1rem;
 }
+.e-content{
+ min-height: calc(100vh - 290px);
+}
 #footer {
 	margin-top: auto;
 	z-index: 1;
-    	position: fixed		;
-   	right: 0;
-     	left: 0;
-     	bottom: 0;
-     	padding: 1rem;
-     	padding-left: 26%;
+  position: fixed		;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  padding: 1rem;
+  padding-left: 26%;
 	width:100%;
-  	background-color: #f5f5f5;
+  background-color: #f5f5f5;
 	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);
 	.u-url  {
 	color: #FFFFFF;	/* G20 */!important
 }
+.container-fluid{
+	background-color: #f5f5f5;
+	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);
+	height: auto;
+}
+ .container-fluid .footer{
+	background-color: #f5f5f5;
+	background:linear-gradient(104deg, rgba(192,26,44,1) 25%, rgba(52,58,64,1) 25%);
+}
+	.footer_img{
+vertical-align:bottom;
+	float:right;
+}
+
 
 a:hover {
 	color: rgb(52,58,64);;
