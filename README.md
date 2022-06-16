@@ -54,7 +54,8 @@ Verbesserungsvorschläge oder Änderungswünsche meldet Ihr am besten einfach hi
 * Theme ist das Standard-Theme für Webseiten: "bootstrap4" und bist jetzt unverändert.
 * Anpassung des Design liegt in `files/assets/css/custom.css`
   * Gemäß Hack & Make CI von 2017 wird die Hintergrundfarbe auf rot #C01A2C gesetzt und der Font ist "Coolvetica".
-  * Konfiguration folgt der Anleitugn für Webseiten (anstelle eines Blogs): https://getnikola.com/creating-a-site-not-a-blog-with-nikola.html
+  * 2020 verwenden wir "Coolvetica" nur für Überschriften. Alles andere in "helvetica" / "arial". Das Rot wird mit dunkelgrau rgb(52,58,64) kontrastiert.
+  * Konfiguration folgt der Anleitung für Webseiten (anstelle eines Blogs): https://getnikola.com/creating-a-site-not-a-blog-with-nikola.html
 
 ### Deployment (lokal):
 
