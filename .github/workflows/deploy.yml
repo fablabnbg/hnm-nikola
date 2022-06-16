@@ -1,9 +1,8 @@
-
 name: deploy
 
 # Controls when the workflow will run
 on:
- 
+
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -12,16 +11,19 @@ on:
 # Warning: deletes all files on uberspace which are not in repo, use without --delete if unsure
 
 jobs:
+ 
   deploy:
     runs-on: ubuntu-latest
-    steps:
+    steps:    
     - uses: actions/checkout@v2
+      with:
+        ref: gh-pages
     - name: rsync deployments
       uses: burnett01/rsync-deployments@4.1
-      with:
+      with:       
         switches: -avzr --delete
-        path: gh-pages/
-        remote_path: /home/sites/hackmake.de${{ secrets.UBERSPACE_USER }}/html/
+        path: /
+        remote_path: /home/${{ secrets.UBERSPACE_USER }}/sites/hackmake.de
         remote_host: ${{ secrets.UBERSPACE_HOST }}
         remote_user: ${{ secrets.UBERSPACE_USER }}
-        remote_key: ${{ secrets.DEPLOY_KEY_PRIVATE }}
+        remote_key: ${{ secrets.SSH_PRIVATE_KEY }}

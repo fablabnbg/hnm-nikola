@@ -1,6 +1,6 @@
 .. title: Informationen für Besucher
 .. slug: besucher
-.. date: 2020-01-11 13:15:02 UTC+01:00
+.. date: 2021-01-11 13:15:02 UTC+01:00
 .. tags: 
 .. category: besucher
 .. link: 
@@ -10,19 +10,6 @@
 
 .. Seiten-Inhalt
 
-..`Tickets`_
-..==========
-..`Tickets`_ können über unsere Partner Erworben werden. Sie finden sie unter der Kategorie iENA. 
-..Wir freuen uns auf euer Kommen.
-Tickets
-========
-Tickets können demnächst über unsere Partner Erworben werden.
-Wir freuen uns auf euch.
-
-Save the date!
-==============
-
-Samstag, 06.11.2020 und Sonntag, 07.11.2020 in der Messe Nürnberg, Halle 12.
 
 ..Hack&Make Shirts
 ..=================
@@ -38,6 +25,10 @@ Samstag, 06.11.2020 und Sonntag, 07.11.2020 in der Messe Nürnberg, Halle 12.
 ..     +--------------------------------------------------------------------------+----------------------------------------+
 
 
+Save the date!
+==============
+
+Samstag, 06.11.2021 und Sonntag, 07.11.2021 in der Messe Nürnberg, Halle 10.
 
 Aussteller
 ==========
@@ -62,7 +53,12 @@ Es besteht **nicht** die Möglichkeit, vor Ort Tickets zu erwerben. Wegen Corona
 Das Ticket berechtigt zum einmaligen Besuch der Hack & Make sowie der iENA und Consumenta. Consumenta-Tickets berechtigen auch zum Einlass
 zur Hack & Make sowie iENA.
 
+Aussteller
+==========
 
+Über Aussteller informieren wir Euch ab Spätsommer 2021.
+
+Du willst selbst ausstellen? --> Aussteller-Information_
 .. Link-Ziele
 
 

@@ -12,7 +12,7 @@
 Save the date!
 --------------
 
-Samstag, 06.11.2020 und Sonntag, 07.11.2020 in der Messe Nürnberg, Halle 12.
+Samstag, 06.11.2021 und Sonntag, 07.11.2021 in der Messe Nürnberg, Halle 10.
 
 **Trotz "Corona" gehen die Planungen bei uns weiter!**
 
@@ -27,7 +27,11 @@ Dann melde einfach Deinen eigenen Stand an!
 
 Ein Stand ist eine fest geplante Fläche, welche zur Präsentation bereitsteht. Stände werden je 3m Front (die Seite zu einem Gang) gerechnet.
 Enthalten ist ein Stromanschluss Schuko (bis 500W), zwei Tische sowie zwei Ausstellertickets. Für größere Stände erhöhen sich die Preise entsprechend.
+<<<<<<< HEAD
+Bei interrese kontaktieren sie uns per Mail Programm21@hackmake.de.
+=======
 Bei interrese kontaktieren sie uns per Mail Programm@hackmake.de.
+>>>>>>> 0bf51c02814cd9d21449253460294d4df7377b85
 
 Der Stand soll thematisch zur HnM passen. Wir behalten uns vor, Standanmeldungen, die nicht zu uns passen, abzulehnen.
 
@@ -47,14 +51,14 @@ Non-Profit
 NP Sale
 ~~~~~~~~
 
-* 59€ (inkl. 16% MwSt)
+* 59€ (inkl. 19% MwSt)
 * für Einzelpersonen, Bildungseinrichtungen, gemeinnützige Organisationen. Mit Verkauf!
 
 
 Start-up
 ~~~~~~~~~~
 
-* 300€ (zzgl. 16% MwSt)
+* 300€ (zzgl. 19% MwSt)
 * für Unternehmen, jünger als drei Jahre (Stichtag 01.01.2021) und mit weniger als 10 Mitarbeitern
 
 Commercial
@@ -77,8 +81,8 @@ Beispielsweise gab es bereits RC-Flächen für ferngesteuerte Fahrzeuge. Wenn Ih
 Auf- und Abbau
 ---------------
 
-* Aufbau erfolgt am Vortag der Messe, also Freitag, 05.11.2020.
-* Abbau erfolgt unmittelbar nach Ende der Messe, also ab 16 Uhr am 07.11.2020.
+* Aufbau erfolgt am Vortag der Messe, also Freitag, 05.11.2021.
+* Abbau erfolgt unmittelbar nach Ende der Messe, also ab 16 Uhr am 07.11.2021.
 * Parken unmittelbar an der Halle, nur für Auf- und Abbau gegen Kaution.
 
 

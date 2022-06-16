@@ -3,5 +3,6 @@ lib/
 __pycache__/
 cache/
 .doit.db
+.github/
 id_rsa
 id_rsa.pub
