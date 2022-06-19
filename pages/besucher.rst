@@ -28,12 +28,12 @@
 Save the date!
 ==============
 
-Samstag, 06.11.2021 und Sonntag, 07.11.2021 in der Messe Nürnberg, Halle 10.
+Samstag, 29.10.2022 und Sonntag, 30.10.2022 in der Messe Nürnberg, Halle 10.
 
 Aussteller
 ==========
 
-Über Aussteller informieren wir Euch ab Spätsommer 2021.
+Über Aussteller informieren wir Euch ab Spätsommer 2022.
 
 Du willst selbst ausstellen? --> Aussteller-Information_
 
@@ -47,16 +47,16 @@ und am Sonntag von 09:30 Uhr bis 16 Uhr (Einlass bis 15 Uhr) für Euch geöffnet
 Eintrittskarten
 ================
 
-Unser Online-Ticketshop wird ab Spätsommer 2021 zur Verfügung stehen.
+Unser Online-Ticketshop wird ab Spätsommer 2022 zur Verfügung stehen.
 
-Es besteht **nicht** die Möglichkeit, vor Ort Tickets zu erwerben. Wegen Corona wird es **ausschließlich** Onlinetickets geben.
+.. Es besteht **nicht** die Möglichkeit, vor Ort Tickets zu erwerben. Wegen Corona wird es **ausschließlich** Onlinetickets geben.
 Das Ticket berechtigt zum einmaligen Besuch der Hack & Make sowie der iENA und Consumenta. Consumenta-Tickets berechtigen auch zum Einlass
 zur Hack & Make sowie iENA.
 
 Aussteller
 ==========
 
-Über Aussteller informieren wir Euch ab Spätsommer 2021.
+Über Aussteller informieren wir Euch ab Spätsommer 2022.
 
 Du willst selbst ausstellen? --> Aussteller-Information_
 .. Link-Ziele
