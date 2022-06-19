@@ -2,7 +2,7 @@ Die Hack & Make ist eine Veranstaltung des `Fab Lab Region Nürnberg e. V.`_
 
 Anschrift
 ----------
-  Fab Lab Region Nürnberg e. V
+  Fab Lab Region Nürnberg e. V.
   
   Schwabacher Straße 512
   
