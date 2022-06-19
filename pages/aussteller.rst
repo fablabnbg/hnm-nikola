@@ -12,7 +12,7 @@
 Save the date!
 --------------
 
-Samstag, 26.10.2022 und Sonntag, 30.10.2022 in der Messe Nürnberg, Halle 10.
+Samstag, 29.10.2022 und Sonntag, 30.10.2022 in der Messe Nürnberg, Halle 10.
 
 .. **Trotz "Corona" gehen die Planungen bei uns weiter!**
 
