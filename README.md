@@ -65,15 +65,7 @@ Verbesserungsvorschläge oder Änderungswünsche meldet Ihr am besten einfach hi
 * TODO: Deployment auf eigenen Server
   * Wird sinnvollerweise über rsync mittels ssh-key erfolgen.
 
-### Deployment (travis-ci)
+### Details zum Deployment
 
-* travis-ci ist ein Continious-Integration Dienst. Sobald eine Änderung auf github committed (oder remote "gepusht") wird, führt travis-ci die in der Datei `.travis.yml` hinterlegten Befehle aus.
-  * siehe https://travis-ci.org/fablabnbg/hnm-nikola
-* In diesen Befehlen ist zur Zeit hinterlegt:
-  * Eine frische Installation von nikola (da travis allerdings die Build-Umgebung cached, wird diese nicht jedes mal ausgeführt)
-  * ein Bauen der Seite (`nikola build`)
-  * Ein Deployment der Seite auf github.io 
-    * Dazu wird die unter "Deployment (lokal)" beschriebene Konfiguration verwendet
-    * Das Projekt hat dazu einen eigenen ssh-key, dessen public-Teil auf github hinterlegt ist (siehe "Settings" im Repository)
-    * Der private Teil ist verschlüsselt gespeichert. Den symmetrischen Schlüssel zum entschlüsseln kennt wiederum nur travis-ci.
-    * Anleitung dazu https://getnikola.com/blog/automating-nikola-rebuilds-with-travis-ci.html
+* Erfolgt über github Actions
+* TODO (_Travis CI kommt dabei nicht mehr zum Einsatz_)
