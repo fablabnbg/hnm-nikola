@@ -7,8 +7,7 @@
 .. description: 
 .. type: text
 
-Die Hack & Make wird vom gemeinnützigen Verein FabLab Region Nürnberg e. V. ausgerichtet. Trotz ehrenamtlicher Mitglieder und viele engagierte Hände ist eine Messe wie die Hack & Make nicht ohne externe Unterstützung möglich.
-Kosten für Infrastruktur, Reinigung sowie Material- und Werbekosten werden vom Verein getragen.
+Die Hack & Make wird durch den gemeinnützigen Verein FabLab Region Nürnberg e. V. ausgerichtet. Trotz ehrenamtlicher Mitglieder und den vielen engagierten Hände ist eine Messe wie die Hack & Make nicht ohne externe Unterstützung möglich. Kosten für Infrastruktur, Reinigung sowie Material- und Werbekosten werden durch den ausschließlich durch Mitgliedsbeiträge und Spenden finanzierten Verein getragen.
 
 **Hack & Make unterstützen**
 
