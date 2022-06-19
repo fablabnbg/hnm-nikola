@@ -21,8 +21,8 @@ Sponsoren haben außerdem einen Standplatz auf der Messe - Größe entsprechend 
 
 Für begeisterte Besucher die, die Idee der Hack & Make einfach gut finden und unterstützen möchten, bieten wir - zu einem kleineren Betrag - auch das Supporter-Paket an. 
 
-Schreib uns unter kontakt@fablab-nuenrberg.de und wir informieren dich gerne über die Details.
+Schreib uns unter kontakt@fablab-nuernberg.de und wir informieren dich gerne über die Details.
 
 .. image:: /assets/img/60pxBlank.svg 
 
-
+.. _per Mail @ kontakt@fablab-nuernberg.de: kontakt@fablab-nuernberg.de
