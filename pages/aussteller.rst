@@ -95,4 +95,4 @@ Auf- und Abbau
 
 .. image:: /assets/img/60pxBlank.svg 
 
-.. _per Mail @ kontakt@fablab-nuernberg.de: kontakt@fablab-nuernberg.de
+.. _`per Mail @ kontakt@fablab-nuernberg.de`: kontakt@fablab-nuernberg.de
