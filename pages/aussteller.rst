@@ -33,7 +33,7 @@ Enthalten ist:
 Für größere Stände erhöhen sich die Preise entsprechend.
 
 
-Bei interrese kontaktiert uns  per Mail @ kontakt@fablab-nuernberg.de.
+Bei Interesse kontaktiert uns  per Mail @ kontakt@fablab-nuernberg.de.
 
 Der Stand soll thematisch zur HnM passen. Wir behalten uns vor, Standanmeldungen, die nicht zu uns passen, abzulehnen.
 
