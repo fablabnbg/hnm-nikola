@@ -1,6 +1,6 @@
 .. title: Informationen für Besucher
 .. slug: besucher
-.. date: 2021-01-11 13:15:02 UTC+01:00
+.. date: 2022-06-18 13:15:02 UTC+01:00
 .. tags: 
 .. category: besucher
 .. link: 
@@ -10,19 +10,6 @@
 
 .. Seiten-Inhalt
 
-
-..Hack&Make Shirts
-..=================
-
-.... table::   
-
-..     +--------------------------------------------------------------------------+----------------------------------------+
-..     |Es gibt Besucher `Shirts und Hoodies`_ !                                  |  .. image:: /assets/img/hnm_shirt.png  |
-..     |Damit Ihr auf unseren Partnermessen gut Flagge zeigen könnt, empfehlen    |                                        |
-..     |wir, entweder im passenden Halloween-Kostüm zu kommen oder eines unserer  |                                        |
-..     |Shirts zu erwerben. So unterstützt Ihr uns bei der Gestaltung der         |                                        |
-..     |Hack & Make und erhaltet dafür ein wertvolles Souvenir.                   |                                        |
-..     +--------------------------------------------------------------------------+----------------------------------------+
 
 
 Save the date!

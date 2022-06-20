@@ -1,6 +1,6 @@
 .. title: Aussteller
 .. slug: aussteller
-.. date: 2022-06-20  UTC+01:00
+.. date: 2022-06-20  20:00:00  UTC+01:00
 .. tags: 
 .. category: 
 .. link: 
