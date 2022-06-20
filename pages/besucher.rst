@@ -28,8 +28,7 @@ Du willst selbst ausstellen? --> Aussteller-Information_
 ===============
 
 Die Hack & Make ist gemeinsam mit der Erfindermesse iENA am Samstag von 09:30 Uhr bis 18 Uhr (Einlass bis 17 Uhr)
-und am Sonntag von 09:30 Uhr bis 16 Uhr (Einlass bis 15 Uhr) für Euch geöffnet.
-
+und am Sonntag von 09:30 Uhr bis 16 Uhr (Einlass bis 15 Uhr) für Euch geöffnet. 
 
 Eintrittskarten
 ================
