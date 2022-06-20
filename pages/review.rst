@@ -8,13 +8,12 @@
 .. type: text
 
 
-2017
-====
 
-Die erste Hack & Make fand im Juni 2017 im Z-Bau in Nürnberg statt.
 
-Einen Eindruck davon gibt es auf https://review.hackmake.de zu sehen.
-
+2020 & 2021
+===========
+Die weltweite Pandemie zwang uns die Hack & Make 2020 abzusagen. Unsere Pläne für die größte HnM mussten wieder in der Schublade verschwinden.
+2021 durften wir unter speziellen Auflagen und verkleinerten Umfang die Faszination am Selber-Machen wieder mit euch feiern.
 
 2018 & 2019
 ===========
@@ -23,11 +22,10 @@ Einen Eindruck davon gibt es auf https://review.hackmake.de zu sehen.
 in der 2018 neu eröffneten Halle 3C statt.
 Und damit auch parallel zum letzten Wochenende der Consumenta.
 
-2020 & 2021
-===========
-Die weltweite Pandemie zwang uns die Hack & Make 2020 abzusagen. Unsere Pläne für die größte HnM mussten wieder in der Schublade verschwinden.
-2021 durften wir unter speziellen Auflagen und verkleinerten Umfang die Faszination am Selber-Machen wieder mit euch feiern.
+Eindrücke 2021
+-------------------
 
+.. gallery:: HnM2021
 
 Eindrücke 2019
 -------------------
