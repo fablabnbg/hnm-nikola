@@ -33,5 +33,5 @@ Ein Anspruch auf Ausstellung einer Akkreditierung besteht nicht.
 
 .. image:: /assets/img/60pxBlank.svg 
 
-.. _per Mail: programm@hackmake.de
+.. _per Mail: kontakt@fablab-nuernberg.de
 

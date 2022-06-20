@@ -7,23 +7,21 @@
 .. description: 
 .. type: text
 
-Eine Messe wie die Hack & Make ist ohne Unterstützung nicht möglich.
-Die faboratory gGmbH ist eine Tochtergesellschaft des FabLab Region Nürnberg e.V. und wer sich FabLab-Mitglied bei der HnM engagiert, ist ehrenamtlich tätig. 
-Doch wir haben Kosten der Messe zu tragen, für Infrastruktur, Reinigung, etc., zusätzlich haben wir Werbe- und Materialkosten. 
+Die Hack & Make wird durch den gemeinnützigen Verein FabLab Region Nürnberg e. V. ausgerichtet. Trotz ehrenamtlicher Mitglieder und den vielen engagierten Hände ist eine Messe wie die Hack & Make nicht ohne externe Unterstützung möglich. Kosten für Infrastruktur, Reinigung sowie Material- und Werbekosten werden durch den ausschließlich durch Mitgliedsbeiträge und Spenden finanzierten Verein getragen.
 
-**Wollen Sie die Hack & Make unterstützen?**
+**Hack & Make unterstützen**
 
-Dafür gibt es drei Sponsor-Stufen: *Platin*, *Gold* und *Silber*.
-Sie werden in all unseren Veröffentlichungen, auf unserer Internetseite, in den Pressemitteilungen, auf unseren SocialMedia-Kanälen, auf Plakaten etc. genannt.
+Für Aussteller haben wir drei Sponsor-Stufen: *Platin*, *Gold* und *Silber*.
+Sponsoren werden in all unseren Veröffentlichungen, auf unserer Internetseite, in den Pressemitteilungen, auf unseren SocialMedia-Kanälen, auf Plakaten etc. genannt.
 
-Außerdem haben Sie natürlich einen Standplatz auf der Messe - Größe entsprechend der Sponsor-Stufe.
+Sponsoren haben außerdem einen Standplatz auf der Messe - Größe entsprechend der Sponsor-Stufe.
 
-Support
+**Supporter-Paket**
 
-Wenn Sie die Idee der Hack & Make einfach gut finden und unterstützen möchten, bieten wir- zu einem kleineren Betrag - auch das Supporter-Paket an.
+Für begeisterte Besucher die, die Idee der Hack & Make einfach gut finden und unterstützen möchten, bieten wir - zu einem kleineren Betrag - auch das Supporter-Paket an. 
 
-Schreiben Sie uns unter sponsor2021@hackmake.de und wir informieren Sie gerne über die Details.
+Schreib uns unter kontakt@fablab-nuernberg.de und wir informieren dich gerne über die Details.
 
 .. image:: /assets/img/60pxBlank.svg 
 
-
+.. _per Mail @ kontakt@fablab-nuernberg.de: kontakt@fablab-nuernberg.de
