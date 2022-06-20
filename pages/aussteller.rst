@@ -31,11 +31,9 @@ Enthalten ist:
 - 2 Tische
 - 2 Ausstellertickets
 Für größere Stände erhöhen sich die Preise entsprechend.
-<<<<<<< HEAD
-Bei interrese kontaktiert uns per Mail kontakt@fablab-nuernberg.de.
+
 =======
 Bei interrese kontaktiert uns per Mail kontakt@fablab-nuernberg.de.
->>>>>>> 0bf51c02814cd9d21449253460294d4df7377b85
 
 Der Stand soll thematisch zur HnM passen. Wir behalten uns vor, Standanmeldungen, die nicht zu uns passen, abzulehnen.
 
