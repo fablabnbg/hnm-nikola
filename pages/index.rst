@@ -1,6 +1,6 @@
 .. title: Hack & Make 2022
 .. slug: index
-.. date: 2022-06-20 15:15:20 UTC+01:00
+.. date: 2022-06-18 15:15:20 UTC+01:00
 .. tags: 
 .. category: 
 .. link: 
