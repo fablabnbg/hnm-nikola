@@ -17,14 +17,14 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Fab Lab Region Nürnberg e. V."  # (translatable)
-BLOG_TITLE = "Hack & Make 2021"  # (translatable)
+BLOG_TITLE = "Hack & Make 2022"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://hackmake.de/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://hackmake.de/"
-BLOG_EMAIL = "programm21@hackmake.de"
+BLOG_EMAIL = "programm@hackmake.de"
 BLOG_DESCRIPTION = "Hack & Make - Das Kreativ- und Technikfestival"  # (translatable)
 
 # Nikola is multilingual!
