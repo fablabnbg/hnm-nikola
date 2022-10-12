@@ -66,7 +66,7 @@ Start-up
 Commercial
 ~~~~~~~~~~~
 
-* 600€ (zzgl. 16% MwSt)
+* 600€ (zzgl. 19% MwSt)
 * für Unternehmen allgemein.
 * für Sponsoren ist ein größerer Stand im Sponsoring-Betrag enthalten. Siehe Sponsoren_.
 
@@ -83,8 +83,8 @@ Beispielsweise gab es bereits RC-Flächen für ferngesteuerte Fahrzeuge. Wenn Ih
 Auf- und Abbau
 ---------------
 
-* Aufbau erfolgt am Vortag der Messe, also Freitag, 28.10.2022.
-* Abbau erfolgt unmittelbar nach Ende der Messe, also ab 16 Uhr am 30.10.2022.
+* Aufbau erfolgt am Vortag der Messe, also Freitag, 28.10.2022. (8.30-19.00)
+* Abbau erfolgt unmittelbar nach Ende der Messe, also ab 16 Uhr am 30.10.2022.(-23.00 Uhr)
 * Parken unmittelbar an der Halle, nur für Auf- und Abbau gegen Kaution.
 
 
