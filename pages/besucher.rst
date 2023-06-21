@@ -1,6 +1,6 @@
 .. title: Informationen für Besucher
 .. slug: besucher
-.. date: 2022-06-18 13:15:02 UTC+01:00
+.. date: 2023-06-21 13:15:02 UTC+01:00
 .. tags: 
 .. category: besucher
 .. link: 
@@ -15,7 +15,7 @@
 Save the date!
 ==============
 
-Samstag, 29.10.2022 und Sonntag, 30.10.2022 in der Messe Nürnberg, Halle 10.
+Samstag, 28.10.2023 bis Montag, 30.10.2023 in der Messe Nürnberg, Halle 10.
 
 Aussteller
 ==========
@@ -33,7 +33,7 @@ und am Sonntag von 09:30 Uhr bis 16 Uhr (Einlass bis 15 Uhr) für Euch geöffnet
 Eintrittskarten
 ================
 
-Unser Online-Ticketshop wird ab Spätsommer 2022 zur Verfügung stehen.
+Unser Online-Ticketshop wird ab Spätsommer 2023 zur Verfügung stehen.
 Das Ticket berechtigt zum einmaligen Besuch der Hack & Make sowie der iENA und Consumenta. Consumenta-Tickets berechtigen auch zum Einlass
 zur Hack & Make sowie iENA.
 

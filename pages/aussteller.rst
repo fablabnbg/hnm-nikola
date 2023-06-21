@@ -1,6 +1,6 @@
 .. title: Aussteller
 .. slug: aussteller
-.. date: 2022-06-18  20:00:00  UTC+01:00
+.. date: 2023-06-21  20:00:00  UTC+01:00
 .. tags: 
 .. category: 
 .. link: 
@@ -12,7 +12,7 @@
 Save the date!
 --------------
 
-Samstag, 29.10.2022 und Sonntag, 30.10.2022 in der Messe Nürnberg, Halle 10.
+Samstag, 28.10.2023 bis Montag, 30.10.2023 in der Messe Nürnberg, Halle 10.
 
 .. **Trotz "Corona" gehen die Planungen bei uns weiter!**
 
@@ -21,7 +21,7 @@ Die parallel stattfindende Consumenta wird es auch dieses Jahr wieder geben. Inf
 Mitmachen
 -----------
 
-Du möchtest bei der HnM22 mitmachen? 
+Du möchtest bei der HnM23 mitmachen? 
 
 Dann melde einfach Deinen eigenen Stand an!
 
@@ -61,7 +61,7 @@ Start-up
 ~~~~~~~~~~
 
 * 300€ (zzgl. 19% MwSt)
-* für Unternehmen, jünger als drei Jahre (Stichtag 01.01.2022) und mit weniger als 10 Mitarbeitern.
+* für Unternehmen, jünger als drei Jahre (Stichtag 01.01.2023) und mit weniger als 10 Mitarbeitern.
 
 Commercial
 ~~~~~~~~~~~
@@ -83,8 +83,8 @@ Beispielsweise gab es bereits RC-Flächen für ferngesteuerte Fahrzeuge. Wenn Ih
 Auf- und Abbau
 ---------------
 
-* Aufbau erfolgt am Vortag der Messe, also Freitag, 28.10.2022. (8.30-19.00)
-* Abbau erfolgt unmittelbar nach Ende der Messe, also ab 16 Uhr am 30.10.2022.(-23.00 Uhr)
+* Aufbau erfolgt am Vortag der Messe, also Freitag, 27.10.2023. (8.30-19.00)
+* Abbau erfolgt unmittelbar nach Ende der Messe, also ab 16 Uhr am 30.10.2023.(-23.00 Uhr)
 * Parken unmittelbar an der Halle, nur für Auf- und Abbau gegen Kaution.
 
 
