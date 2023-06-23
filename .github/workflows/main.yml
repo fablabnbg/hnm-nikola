@@ -10,12 +10,14 @@ jobs:
         set-safe-directory: '/home/runner/work/hnm-nikola/hnm-nikola'
     - name: look around
       run: |
+        set -x
         pwd
         ls -la
+        echo $HOME
+        cat ~/.gitconfig
         mkdir -p /home/runner/work/_temp/_github_home
         du -a /home/runner/work/_temp/_github_home
-        cat /home/runner/work/_temp/_github_home/.gitconfig
-        # seems the set-safe-directory above just does nothing. try manually...
+        # seems the set-safe-directory above just does nothing in that temp home home.... try manually...
         env HOME=/home/runner/work/_temp/_github_home git config --global --add safe.directory /github/workspace
         env HOME=/home/runner/work/_temp/_github_home git config --global --add safe.directory /home/runner/work/hnm-nikola/hnm-nikola
         echo ...
