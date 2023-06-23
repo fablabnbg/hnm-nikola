@@ -12,11 +12,12 @@ jobs:
       run: |
         pwd
         ls -la
-        cat .git/config
+        cat .gitconfig
         # seems the set-safe-directory above just does nothing. try manually...
         git config --global --add safe.directory /github/workspace
         git config --global --add safe.directory /home/runner/work/hnm-nikola/hnm-nikola
-        cat .git/config
+        echo ...
+        cat .gitconfig
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v3
       with:
