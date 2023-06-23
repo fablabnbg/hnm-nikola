@@ -8,6 +8,12 @@ jobs:
       uses: actions/checkout@v2
       with:
         set-safe-directory: '/home/runner/work/hnm-nikola/hnm-nikola'
+      run: |
+        pwd
+        ls -la
+        cat .git/config
+        ls -la /home/runner/work/hnm-nikola/hnm-nikola
+        cat /home/runner/work/hnm-nikola/hnm-nikola/.git/config
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v3
       with:
