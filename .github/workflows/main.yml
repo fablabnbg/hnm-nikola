@@ -8,12 +8,12 @@ jobs:
       uses: actions/checkout@v2
       with:
         set-safe-directory: '/home/runner/work/hnm-nikola/hnm-nikola'
-    - name: prepare docker home for nicola with safe.directory for git.
+    - name: Prepare a docker home for nicola with a git safe.directory that actually works
       run: |
         set -x +e
+        # with: set-safe-directory above is nicely documented, but it does nothing. Hack and make it work manually.
         mkdir -p /home/runner/work/_temp/_github_home
-        # env HOME=/home/runner/work/_temp/_github_home git config --global --add safe.directory /github/workspace
-        env HOME=/home/runner/work/_temp/_github_home git config --global --add safe.directory /home/runner/work/hnm-nikola/hnm-nikola
+        env HOME=/home/runner/work/_temp/_github_home git config --global --add safe.directory /github/workspace
         cat /home/runner/work/_temp/_github_home/.gitconfig
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v3
