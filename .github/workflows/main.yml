@@ -12,6 +12,7 @@ jobs:
       run: |
         pwd
         ls -la
+        mkdir -p /home/runner/work/_temp/_github_home
         du -a /home/runner/work/_temp/_github_home
         cat /home/runner/work/_temp/_github_home/.gitconfig
         # seems the set-safe-directory above just does nothing. try manually...
