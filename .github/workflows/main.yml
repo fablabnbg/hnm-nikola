@@ -13,8 +13,10 @@ jobs:
         pwd
         ls -la
         cat .git/config
-        ls -la /home/runner/work/hnm-nikola/hnm-nikola
-        cat /home/runner/work/hnm-nikola/hnm-nikola/.git/config
+        # seems the set-safe-directory above just does nothing. try manually...
+        git config --global --add safe.directory /github/workspace
+        git config --global --add safe.directory /home/runner/work/hnm-nikola/hnm-nikola
+        cat .git/config
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v3
       with:
