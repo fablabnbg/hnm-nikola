@@ -12,10 +12,13 @@ jobs:
       run: |
         pwd
         ls -la
-        cat .gitconfig
+        du -a /home/runner/work/_temp/_github_home
+        cat /home/runner/work/_temp/_github_home/.gitconfig
         # seems the set-safe-directory above just does nothing. try manually...
-        git config --global --add safe.directory /github/workspace
-        git config --global --add safe.directory /home/runner/work/hnm-nikola/hnm-nikola
+        env HOME=/home/runner/work/_temp/_github_home git config --global --add safe.directory /github/workspace
+        env HOME=/home/runner/work/_temp/_github_home git config --global --add safe.directory /home/runner/work/hnm-nikola/hnm-nikola
+        echo ...
+        cat /home/runner/work/_temp/_github_home/.gitconfig
         echo ...
         cat .gitconfig
     - name: Build and Deploy Nikola
