@@ -6,6 +6,7 @@ jobs:
     steps:
     - name: Check out
       uses: actions/checkout@v2
+      set-safe-directory: '/home/runner/work/hnm-nikola/hnm-nikola'
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v3
       with:
