@@ -10,11 +10,12 @@ jobs:
         set-safe-directory: '/home/runner/work/hnm-nikola/hnm-nikola'
     - name: look around
       run: |
-        set -x
+        set -x +e
         pwd
         ls -la
         echo $HOME
         cat ~/.gitconfig
+        cat .gitconfig
         mkdir -p /home/runner/work/_temp/_github_home
         du -a /home/runner/work/_temp/_github_home
         # seems the set-safe-directory above just does nothing in that temp home home.... try manually...
