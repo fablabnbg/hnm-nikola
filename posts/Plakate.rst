@@ -9,6 +9,7 @@
 .. type: text
 
 Plakate und Sticker liegen im FabLab Region Nürnberg zum mitnehmen aus.
+
 .. TEASER_END
 
 Im Fablab Region Nürnberg liegen nun die ersten Flayer und Sticker bereit, um sie zu verteilen. Du findest sie in der Sofaecke.
