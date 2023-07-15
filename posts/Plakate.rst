@@ -1,5 +1,5 @@
-.. title: Plakate und Stocker sind gedruckt
-.. slug: plakate-und-stocker-sind-gedruckt
+.. title: Plakate und Sticker sind gedruckt
+.. slug: plakate-und-sticker-sind-gedruckt
 .. date: 2023-07-15 12:31:39 UTC+01:00
 .. tags: news
 .. author: Simon
