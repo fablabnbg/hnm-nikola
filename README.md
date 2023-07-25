@@ -11,7 +11,7 @@ Dazu schickt einfach euren github-Benutzernamen an Ian. (Zum Beispiel, indem Ihr
   * Die Texte liegen alle in den Unterverzeichnissen "pages" und "posts".
   * Für reine Text-Änderungen ist das die einfachste Methode.
   * Das RST-Format lernt man am besten durch Anschauen und Nachmachen. Mehr erfährt man auf https://de.wikipedia.org/wiki/ReStructuredText
-  * Die Änderungen sind in wenigen Minuten auf https://fablabnbg.github.io/hnm-nikola/ zur Vorschau, und nach Freigabe durch Ian dann auch auf hackmake.de
+  * Die Änderungen sind in wenigen Minuten auf https://fablabnbg.github.io/hnm-nikola/ zur Vorschau, und nach Freigabe (durch Ian, Simon, oder Jürgen) dann auch auf hackmake.de
 
 
 ## Wie kann ich lokal ändern oder neue Seiten hinzufügen?
