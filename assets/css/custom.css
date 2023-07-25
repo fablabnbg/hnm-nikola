@@ -40,7 +40,7 @@ p {
   	color: #FFFFFF;
 }
 .navbar-brand {
-	width: 30rem;	/* give more room to the blog-title and subheadings. this reduces the danger to wrap into the next line. Which makes the header huge. */
+	width: 28rem;	/* give more room to the blog-title and subheadings. this reduces the danger to wrap into the next line. Which makes the header huge. */
 }
 .e-content{
  min-height: calc(100vh - 290px);
