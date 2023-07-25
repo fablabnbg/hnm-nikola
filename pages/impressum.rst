@@ -13,7 +13,7 @@ Register
 
   Vereinssitz: Nürnberg, VR 201148
 
-  Vorstand: Ian Hubbertz, Roland Möltner, Jürgen Halbritter, Toby Bozin, Nicolas Metz
+  Vorstand: Roland Möltner, Toby Bozin, Nicolas Metz, Tom Tchilov, Michael Prell
 
   USt-IdNr: DE292554612
 
