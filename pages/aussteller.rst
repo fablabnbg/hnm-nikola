@@ -1,10 +1,10 @@
 .. title: Aussteller
 .. slug: aussteller
-.. date: 2023-06-21  20:00:00  UTC+01:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. date: 2023-07-24  20:00:00  UTC+01:00
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 
@@ -14,14 +14,17 @@ Save the date!
 
 Samstag, 28.10.2023 bis Montag, 30.10.2023 in der Messe Nürnberg, Halle 10.
 
-.. **Trotz "Corona" gehen die Planungen bei uns weiter!**
+Die Hack & Make findet parallel zur Erfindermesse IENA in Halle 10 statt.
+Unser Zeitraum ist auch gleichzeitig das erste Consumenta-Wochenende.
+Eintrittskarten gelten für alle parallel stattfindenden Messen.
+Wir freuen uns auf technisch interessiertes Fach-Publikum, welches aufgrund der IENA in unsere Halle kommt,
+genauso wie auf das das breite Publikum der Consumenta.
 
-Die parallel stattfindende Consumenta wird es auch dieses Jahr wieder geben. Informationen zum Hygienekonzept finden sich auf der Webseite der Consumenta_.
 
 Mitmachen
 -----------
 
-Du möchtest bei der HnM23 mitmachen? 
+Du möchtest bei der HnM23 mitmachen?
 
 Dann melde einfach Deinen eigenen Stand an!
 
@@ -41,7 +44,7 @@ Der Stand soll thematisch zur HnM passen. Wir behalten uns vor, Standanmeldungen
 Preise
 -------
 
-Wir teilen Aussteller in vier Kategorien ein und es fallen folgende Gebühren für einen Stand an: 
+Wir teilen Aussteller in vier Kategorien ein und es fallen folgende Gebühren für einen Stand an:
 
 Non-Profit
 ~~~~~~~~~~
@@ -93,6 +96,6 @@ Auf- und Abbau
 .. _Sponsoren: link://slug/sponsoren
 .. _Consumenta: https://www.consumenta.de/
 
-.. image:: /assets/img/60pxBlank.svg 
+.. image:: /assets/img/60pxBlank.svg
 
 

@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Fab Lab Region Nürnberg e. V."  # (translatable)
-BLOG_TITLE = "Hack & Make 2022"  # (translatable)
+BLOG_TITLE = "Hack & Make 2023"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://hackmake.de/"
